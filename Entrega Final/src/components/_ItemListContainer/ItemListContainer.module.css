@@ -1,0 +1,20 @@
+.fontBlack{
+    color: #1A1A1A;
+}
+
+.itemsListContainer{
+    width: 100%;
+    height: auto;
+    padding-top: 2rem;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 12vh;
+}
+
+.bgItemsListContainer{
+    background-color: #c4d1d6;
+}
+
+.loading {
+    margin-top: 20vh;
+}
